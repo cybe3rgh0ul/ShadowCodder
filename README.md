@@ -32,18 +32,11 @@
 ## CTF profiles:
 <img src="https://tryhackme-badges.s3.amazonaws.com/cyb3rgh0u1.png" alt="Your TryHackMe Badge" />
 <div align="left">
-    <a href="https://app.hackthebox.com/profile/1836941">
-        <img src="https://www.hackthebox.com/badge/image/1836941" alt="HackTheBox Badge">
     </a>
 </div>
 <br>
 
-## Programming and Markup Languages
-- ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
-- ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-- ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
-- ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
-- ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-- ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyb3rgh0u1&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyb3rgh0u1&theme=github_dark)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyb3rgh0u1&theme=github_dark)
